@@ -1,4 +1,7 @@
 # Function 1
+import pytest
+
+
 def double_number(a):
     return a * 2
 
